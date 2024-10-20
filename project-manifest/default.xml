@@ -1,0 +1,7 @@
+<manifest>
+    <remote name="origin" fetch="https://github.com/"/>
+    <default remote="origin" revision="main"/>
+    
+    <project name="wuys.hng/project-framework" path="framework" />
+    <project name="wuys.hng/project-module" path="module" />
+</manifest>
